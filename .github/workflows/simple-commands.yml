@@ -13,4 +13,3 @@ jobs:
 
       - name: List Files
         run: ls -la
-hunga-bunga >> de sters
